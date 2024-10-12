@@ -6,7 +6,7 @@ export const journals = [
         desc: "The International Journal on Data Processing & Networking (IJDPN) is an interdisciplinary refereed journal that focuses on the latest advancements and innovations in data processing and networking. The journal aims to bridge the gap between theoretical research and practical applications, providing a platform for researchers, professionals, and academics to share cutting-edge developments and trends in data processing, communication networks, and related disciplines.",
         date: "dd/mm/yyyy",
         image: 'conf.jpeg',
-        link: `/journals/ijdpn`,
+        link: `https://ui-journals.com/journals/index.php/ijdpn/login`,
         type: "ISSSN (ONLINE)",
         posterImg: image,
         about: "The International Journal on Data Processing & Networking (IJDPN) is an interdisciplinary refereed journal that focuses on the latest advancements and innovations in data processing and networking. The journal aims to bridge the gap between theoretical research and practical applications, providing a platform for researchers, professionals, and academics to share cutting-edge developments and trends in data processing, communication networks, and related disciplines.",
