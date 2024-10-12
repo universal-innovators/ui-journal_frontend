@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Card({imgSrc,desc,link,head}) {
+export default function Card({imgSrc, desc,link,head}) {
     return (
         <div class="max-w-60 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 m-10">
             <a href="#">
