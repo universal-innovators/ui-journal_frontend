@@ -9,7 +9,7 @@ export default function JournalsCard(props) {
         <span className='font-semibold'>Date : {props.data.date}</span>
         <br />
         <p>{props.data.desc}</p>
-        <NavLink className='block text-right text-white mt-2' to={props.data.link}><button className='bg-logoColor py-2 px-3 font-semibold'> Read More</button></NavLink>
+        <a className='block text-right text-white mt-2' href={props.data.link}><button className='bg-logoColor py-2 px-3 font-semibold'> Visit Journal</button></a>
       </div>
     </div>
   )
