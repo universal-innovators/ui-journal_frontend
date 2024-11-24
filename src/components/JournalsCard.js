@@ -12,7 +12,7 @@ export default function JournalsCard(props) {
         {/* <span className='font-semibold'>Date: {props.data.date}</span> */}
         <br />
         <p className='text-sm md:text-base'>{props.data.desc}</p>
-        <a className='block text-right text-white mt-2' href={props.data.link}><button className='bg-logoColor py-2 px-3 font-semibold'> Visit Journal</button></a>
+        <a className='block text-right text-white mt-2' href={props.data.link} target='_blank'><button className='bg-logoColor py-2 px-3 font-semibold'> Visit Journal</button></a>
       </div>
     </div>
   );
