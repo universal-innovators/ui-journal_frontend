@@ -1,11 +1,12 @@
 import image from '../images/image.png'
+import journal1 from '../images/conf.jpeg';
 export const journals = [
     {
         Cid: "ijdpn",
         name: "INTERNATIONAL JOURNAL ON DATA PROCESSING & NETWORKING",
         desc: "The International Journal on Data Processing & Networking (IJDPN) is an interdisciplinary refereed journal that focuses on the latest advancements and innovations in data processing and networking. The journal aims to bridge the gap between theoretical research and practical applications, providing a platform for researchers, professionals, and academics to share cutting-edge developments and trends in data processing, communication networks, and related disciplines.",
         date: "dd/mm/yyyy",
-        image: 'conf.jpeg',
+        image: journal1,
         link: `https://ijdpn.ui-journals.com/index.php/journal/login`,
         type: "ISSSN (ONLINE)",
         posterImg: image,
@@ -65,7 +66,7 @@ export const journals = [
         name: "INTERNATIONAL JOURNAL OF MANAGEMENT AND DATA INTELLIGENCE",
         desc: "The International Journal of Management and Data Intelligence (IJMDI) is a peer-reviewed, open-access journal published quarterly online. It aims to advance scientific knowledge and share innovative research findings in areas of data intelligence, management and their interdisciplinary applications. The journal welcomes original research, review articles, case studies, technical notes, and letters to the editor, providing a platform for academics, researchers, and practitioners to contribute to the scientific community.",
         date: "dd/mm/yyyy",
-        image: 'conf.jpeg',
+        image: journal1,
         link: `https://ijmdi.ui-journals.com/index.php/journal/login`,
         type: "ISSSN (ONLINE)",
         posterImg: image,
