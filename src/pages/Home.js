@@ -61,6 +61,7 @@ export default function Home() {
             <div className="ijdpn w-full md:w-3/4 m-auto mt-8 md:mt-16">
                 <h2 className='text-center w-11/12 text-2xl md:text-4xl text-logoColor font-roboto font-bold md:w-2/3 m-auto'>UI- International Journals</h2>
                 <p className='m-auto w-11/12 md:w-3/4 font-roboto italic font-extralight mt-8 md:mt-16 text-sm md:text-base'>
+                UI International Journals, serves as an open-access platform that publishes high-quality, peer-reviewed research across various disciplines. Our journals aim to disseminate innovative scientific information and cutting-edge research that bridges the gap between academia and industry.
                     Our Journals includes:
                     <ul className='list-disc ml-4 md:ml-8 mt-4'>
                         <li>IJDPN (International Journal on Data Processing & Networking)</li>
