@@ -59,11 +59,14 @@ export default function Home() {
 
             {/* Journal Section */}
             <div className="ijdpn w-full md:w-3/4 m-auto mt-8 md:mt-16">
-                <h2 className='text-center w-11/12 text-2xl md:text-4xl text-logoColor font-roboto font-bold md:w-2/3 m-auto'>INTERNATIONAL JOURNAL ON DATA PROCESSING & NETWORKING (IJDPN)</h2>
-                <p className='m-auto w-11/12 font-roboto italic font-extralight mt-8 md:mt-16 text-sm md:text-base'>
-                    The International Journal on Data Processing & Networking (IJDPN) is an interdisciplinary refereed journal that focuses on the latest advancements and innovations in data processing and networking. The journal aims to bridge the gap between theoretical research and practical applications, providing a platform for researchers, professionals, and academics to share cutting-edge developments and trends in data processing, communication networks, and related disciplines.
-                    <br /><br />
-                    IJDPN aims to contribute to the global knowledge base by publishing high-quality research papers, review articles, and case studies that explore the challenges and opportunities in data processing and networking. The journal seeks to foster collaboration between academia and industry, encouraging the development of innovative solutions that address real-world problems in data management, communication technologies, and network security.
+                <h2 className='text-center w-11/12 text-2xl md:text-4xl text-logoColor font-roboto font-bold md:w-2/3 m-auto'>UI- International Journals</h2>
+                <p className='m-auto w-11/12 md:w-3/4 font-roboto italic font-extralight mt-8 md:mt-16 text-sm md:text-base'>
+                    Our Journals includes:
+                    <ul className='list-disc ml-4 md:ml-8 mt-4'>
+                        <li>IJDPN (International Journal on Data Processing & Networking)</li>
+                        <li>IJMDI (International Journal of Management and Data Intelligence)</li>
+                        <li>ICC Journal (Innovative Computing and Communication: An International Journal)</li>
+                    </ul>                    
                 </p>
             </div>
         </div>
